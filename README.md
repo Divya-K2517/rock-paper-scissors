@@ -1,7 +1,6 @@
 # Rock Paper Scissors
 
-![Screen Recording 2024-12-24 at 6 31 38 PM (1)](https://github.com/user-attachments/assets/f032cf95-3291-42d7-91ec-63ff8ccd3cfb)
-
+<img src="https://github.com/user-attachments/assets/f032cf95-3291-42d7-91ec-63ff8ccd3cfb" width="60%" alt="Screen Recording">
 
 **Description:**  
 Rock Paper Scissors
